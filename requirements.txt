@@ -1,4 +1,3 @@
-
 fastapi
 uvicorn
 opencv-python
@@ -13,3 +12,6 @@ soundfile
 groq
 deep-sort-realtime
 python-dotenv
+torch
+torchvision
+setuptools<81 
