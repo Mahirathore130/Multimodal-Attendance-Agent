@@ -1,3 +1,4 @@
+
 fastapi
 uvicorn
 opencv-python
@@ -14,4 +15,5 @@ deep-sort-realtime
 python-dotenv
 torch
 torchvision
-setuptools<81 
+setuptools<81
+streamlit
